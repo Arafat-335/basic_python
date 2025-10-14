@@ -29,5 +29,6 @@
 # a = input()
 # print(int(a)+int(a))
 
-a = input()
-print(f"my name is {a}")
+# a = input()
+# print(f"my name is {a}")
+
